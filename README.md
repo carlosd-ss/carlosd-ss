@@ -1,10 +1,10 @@
 <img src="https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/go.svg"  height="150">
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-daniel-0705b81b0/)](https://www.linkedin.com/in/carlos-daniel-0705b81b0/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carlosdanieldss.cd@gmail.com)](mailto:carlosdanieldss.cd@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/carlosd.ss/?hl=pt-br)](https://www.instagram.com/carlosd.ss/?hl=pt-br)
-
+[![Linkedin](https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/linkedin.svg)](https://www.linkedin.com/in/carlos-daniel-0705b81b0/)
+[![Gmail](https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/mail.svg)](mailto:carlosdanieldss.cd@gmail.com)
+[![Instagram](https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/instagram.svg)](https://www.instagram.com/carlosd.ss/?hl=pt-br)
+[![Telegram](https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/send.svg)](http://t.me/CarlosDss)
  
 
 ![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=default&line_height=20)
