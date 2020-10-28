@@ -7,5 +7,5 @@
 
  
 
-![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=default)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosd-ss&layout=compact&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=default&line_height=20)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosd-ss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
