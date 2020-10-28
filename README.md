@@ -7,5 +7,5 @@
 [![Telegram](https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/send.svg)](http://t.me/CarlosDss)
  
 
-![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=default&line_height=20)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosd-ss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&icon_color=efabb5&theme=default&title_color=96D6FF&line_height=20)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosd-ss&layout=compact&title_color=96D6FF)](https://github.com/anuraghazra/github-readme-stats)
